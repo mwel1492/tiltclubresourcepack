@@ -1,0 +1,870 @@
+
+Custom Music and Tweaks/assets/minecraft/blockstates/note_block.json
+Custom Music and Tweaks/assets/minecraft/font/default.json
+Custom Music and Tweaks/assets/minecraft/lang/en_us.json
+Custom Music and Tweaks/assets/minecraft/models/block/hopper.json
+Custom Music and Tweaks/assets/minecraft/models/block/hopper_side.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/0.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/1.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/10.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/11.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/12.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/13.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/14.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/15.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/16.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/17.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/18.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/19.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/2.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/20.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/21.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/22.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/23.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/24.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/3.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/4.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/5.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/6.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/7.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/8.json
+Custom Music and Tweaks/assets/minecraft/models/block/note_block/block/9.json
+Custom Music and Tweaks/assets/minecraft/models/block/piston_head_short_sticky.json
+Custom Music and Tweaks/assets/minecraft/models/block/piston_head_sticky.json
+Custom Music and Tweaks/assets/minecraft/models/block/stem_fruit.json
+Custom Music and Tweaks/assets/minecraft/models/block/stem_growth0.json
+Custom Music and Tweaks/assets/minecraft/models/block/stem_growth1.json
+Custom Music and Tweaks/assets/minecraft/models/block/stem_growth2.json
+Custom Music and Tweaks/assets/minecraft/models/block/stem_growth3.json
+Custom Music and Tweaks/assets/minecraft/models/block/stem_growth4.json
+Custom Music and Tweaks/assets/minecraft/models/block/stem_growth5.json
+Custom Music and Tweaks/assets/minecraft/models/block/stem_growth6.json
+Custom Music and Tweaks/assets/minecraft/models/block/stem_growth7.json
+Custom Music and Tweaks/assets/minecraft/models/block/sticky_piston.json
+Custom Music and Tweaks/assets/minecraft/models/block/sticky_piston_inventory.json
+Custom Music and Tweaks/assets/minecraft/models/block/template_piston_head_short_sticky.json
+Custom Music and Tweaks/assets/minecraft/models/block/template_piston_head_sticky.json
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/black/black.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/black/black.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/black/blackbrokenicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/black/blackicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/black/blackicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/blue/blue.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/blue/blue.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/blue/bluebrokenicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/blue/blueicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/blue/blueicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/cyan/bluebrokenicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/cyan/cyan.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/cyan/cyan.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/cyan/cyanicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/cyan/cyanicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/gray/Gray OptFine Cape.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/green/Green OptFine Cape.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/purple/Purple OptFine Cape.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/red/Red OptFine Cape.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/standard/Standard OptFine Cape.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/white/White OptFine Cape.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/color/yellow/Yellow OptFine Cape.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/avatar_elytra.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/avatar_elytra.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/avatar_elytra_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/avatar_elytra_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/avatar_elytra_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/lotus_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/lotus_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/lotus_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/lotus_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/lotus_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/magicleaf.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/magicleaf.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/magicleaficon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/magicleaficon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/mechanic wings/jetpack_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/mechanic wings/jetpack_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/mechanic wings/jetpack_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/mechanic wings/jetpack_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/mechanic wings/jetpack_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/mechanic wings/mech_dragon_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/mechanic wings/mech_dragon_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/mechanic wings/mech_dragon_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/mechanic wings/mech_dragon_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/mechanic wings/mech_dragon_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/petal_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/petal_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/petal_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/petal_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/petal_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/rainbow_elytra.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/rainbow_elytra.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/rainbow_elytra_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/rainbow_elytra_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/rainbow_elytra_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/reinforced elytra/reinforced.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/reinforced elytra/reinforced.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/reinforced elytra/reinforcedbrokenicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/reinforced elytra/reinforcedicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/reinforced elytra/reinforcedicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/skylartech.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/skylartech.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/skylartechicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/skylartechicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/spyro_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/spyro_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/spyroicon.gif
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/spyroicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/customs/spyroicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/aidens wings/monilytra/monilytra.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/aidens wings/monilytra/monilytra.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/aidens wings/monilytra/monilytra_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/aidens wings/monilytra/monilytra_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/aidens wings/monilytra/monilytra_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/aidens wings/wis elytra/wis.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/aidens wings/wis elytra/wis_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/aidens wings/wis elytra/wis_elytra.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/aidens wings/wis elytra/wis_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/aidens wings/wis elytra/wis_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/camo/camo_elytra.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/camo/camo_elytra.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/camo/camo_elytra_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/camo/camo_elytra_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/camo/camo_elytra_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/duck/duck_elytra.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/duck/duck_elytra.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/duck/duck_elytra_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/duck/duck_elytra_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/duck/duck_elytra_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/flordiaducky/flordiaducky_elytra.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/flordiaducky/flordiaducky_elytra.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/flordiaducky/flordiaducky_elytra_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/flordiaducky/flordiaducky_elytra_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/flordiaducky/flordiaducky_elytra_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/hacker/hacker_elytra.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/hacker/hacker_elytra.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/hacker/hacker_elytra_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/hacker/hacker_elytra_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/hacker/hacker_elytra_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/pizza/pizza_elytra.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/pizza/pizza_elytra2.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/pizza/pizza_elytra_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/pizza/pizza_elytra_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/floriaducky/pizza/pizza_elytra_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/kn1gh7h4wk textures/tron identity discs/blue/elytrablue.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/kn1gh7h4wk textures/tron identity discs/blue/elytrablue.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/kn1gh7h4wk textures/tron identity discs/blue/trondiscblue.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/kn1gh7h4wk textures/tron identity discs/blue/trondiscblue.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/kn1gh7h4wk textures/tron identity discs/orange/elytraorange.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/kn1gh7h4wk textures/tron identity discs/orange/elytraorange.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/kn1gh7h4wk textures/tron identity discs/orange/orange_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/kn1gh7h4wk textures/tron identity discs/orange/orange_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/kn1gh7h4wk textures/tron identity discs/white/ewhite.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/kn1gh7h4wk textures/tron identity discs/white/ewhite.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/kn1gh7h4wk textures/tron identity discs/white/white.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/kn1gh7h4wk textures/tron identity discs/white/white.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/kn1gh7h4wk textures/tron identity discs/yellow/eyellow.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/kn1gh7h4wk textures/tron identity discs/yellow/eyellow.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/kn1gh7h4wk textures/tron identity discs/yellow/yellow.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/kn1gh7h4wk textures/tron identity discs/yellow/yellow.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/bug wings/dragonfly_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/bug wings/dragonfly_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/bug wings/dragonfly_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/bug wings/dragonfly_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/bug wings/dragonfly_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/bug wings/greenbeetle_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/bug wings/greenbeetle_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/bug wings/greenbeetle_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/bug wings/greenbeetle_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/bug wings/greenbeetle_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/bug wings/purplebeetle_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/bug wings/purplebeetle_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/bug wings/purplebeetle_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/bug wings/purplebeetle_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/bug wings/purplebeetle_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/bug wings/scarab_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/bug wings/scarab_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/bug wings/scarab_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/bug wings/scarab_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/bug wings/scarab_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/dragon wings/green_dragon_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/dragon wings/green_dragon_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/dragon wings/green_dragon_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/dragon wings/green_dragon_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/dragon wings/green_dragon_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/dragon wings/red_dragon_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/dragon wings/red_dragon_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/dragon wings/red_dragon_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/dragon wings/red_dragon_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/dragon wings/red_dragon_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/fantasy wings/angel_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/fantasy wings/angel_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/fantasy wings/angel_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/fantasy wings/angel_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/fantasy wings/angel_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/fantasy wings/demon_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/fantasy wings/demon_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/fantasy wings/demon_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/fantasy wings/demon_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/fantasy wings/demon_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/fantasy wings/fairy_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/fantasy wings/fairy_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/fantasy wings/fairy_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/fantasy wings/fairy_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/fantasy wings/fairy_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/fantasy wings/phoenix_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/fantasy wings/phoenix_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/fantasy wings/phoenix_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/fantasy wings/phoenix_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/fantasy wings/phoenix_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/feathered wings/eagle_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/feathered wings/eagle_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/feathered wings/eagle_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/feathered wings/eagle_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/feathered wings/eagle_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/feathered wings/macaw_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/feathered wings/macaw_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/feathered wings/macaw_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/feathered wings/macaw_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/feathered wings/macaw_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/misc wings/fried_wing.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/misc wings/fried_wing.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/misc wings/friedchicken_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/misc wings/friedchicken_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/lemoncakes wings/misc wings/friedchicken_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/- Credits.txt
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/architects wings/architects_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/architects wings/architects_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/architects wings/architects_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/architects wings/architects_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/architects wings/architects_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/barrier wings/barrier_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/barrier wings/barrier_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/barrier wings/barrier_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/barrier wings/barrier_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/barrier wings/barrier_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/bat wings/bat_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/bat wings/bat_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/bat wings/bat_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/bat wings/bat_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/bat wings/bat_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/black ice/black_ice_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/black ice/black_ice_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/black ice/black_ice_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/black ice/black_ice_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/black ice/black_ice_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/blossom/blossom_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/blossom/blossom_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/blossom/blossom_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/blossom/blossom_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/blossom/blossom_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/candy cane/candy_cane_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/candy cane/candy_cane_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/candy cane/candy_cane_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/candy cane/candy_cane_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/candy cane/candy_cane_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/celestial/celestial_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/celestial/celestial_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/celestial/celestial_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/celestial/celestial_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/celestial/celestial_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/cosmos/cosmos_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/cosmos/cosmos_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/cosmos/cosmos_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/cosmos/cosmos_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/cosmos/cosmos_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/dollar/dollar_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/dollar/dollar_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/dollar/dollar_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/dollar/dollar_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/dollar/dollar_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/dragon skull/dragon_skull_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/dragon skull/dragon_skull_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/dragon skull/dragon_skull_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/dragon skull/dragon_skull_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/dragon skull/dragon_skull_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/dreamtime/dreamtime_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/dreamtime/dreamtime_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/dreamtime/dreamtime_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/dreamtime/dreamtime_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/dreamtime/dreamtime_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/fallen/fallen_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/fallen/fallen_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/fallen/fallen_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/fallen/fallen_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/fallen/fallen_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/flash/flash_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/flash/flash_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/flash/flash_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/flash/flash_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/flash/flash_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/goldenhawk/goldenhawk_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/goldenhawk/goldenhawk_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/goldenhawk/goldenhawk_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/goldenhawk/goldenhawk_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/goldenhawk/goldenhawk_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/goldleaf/goldleaf_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/goldleaf/goldleaf_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/goldleaf/goldleaf_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/goldleaf/goldleaf_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/goldleaf/goldleaf_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/harpy/harpy_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/harpy/harpy_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/harpy/harpy_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/harpy/harpy_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/harpy/harpy_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/ice/ice_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/ice/ice_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/ice/ice_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/ice/ice_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/ice/ice_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/inferno/inferno_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/inferno/inferno_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/inferno/inferno_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/inferno/inferno_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/inferno/inferno_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/leaf/leaf_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/leaf/leaf_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/leaf/leaf_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/leaf/leaf_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/leaf/leaf_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/lilypad/lilypad_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/lilypad/lilypad_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/lilypad/lilypad_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/lilypad/lilypad_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/lilypad/lilypad_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/mcdonalds/mcdonalds_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/mcdonalds/mcdonalds_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/mcdonalds/mcdonalds_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/mcdonalds/mcdonalds_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/mcdonalds/mcdonalds_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/neonblue/neonblue_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/neonblue/neonblue_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/neonblue/neonblue_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/neonblue/neonblue_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/neonblue/neonblue_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/neonorange/neonorange_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/neonorange/neonorange_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/neonorange/neonorange_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/neonorange/neonorange_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/neonorange/neonorange_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/night/night_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/night/night_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/night/night_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/night/night_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/night/night_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/peacock/peacock_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/peacock/peacock_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/peacock/peacock_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/peacock/peacock_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/peacock/peacock_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/shark/shark_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/shark/shark_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/shark/shark_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/shark/shark_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/shark/shark_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/sky/sky_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/sky/sky_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/sky/sky_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/sky/sky_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/sky/sky_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/sunset/sunset_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/sunset/sunset_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/sunset/sunset_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/sunset/sunset_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/sunset/sunset_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/tattered/tattered_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/tattered/tattered_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/tattered/tattered_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/tattered/tattered_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/tattered/tattered_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/watcher/watcher_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/watcher/watcher_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/watcher/watcher_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/watcher/watcher_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/external/paradiscal/watcher/watcher_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/boo/boolytra.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/boo/boolytra.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/boo/boolytra_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/boo/boolytra_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/boo/boolytra_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/bowser jr/bowserjr.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/bowser jr/bowserjr_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/bowser jr/bowserjr_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/bowser jr/bowserjr_icon_broken.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/bowser jr/bowserjr_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/logo wings/logo_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/logo wings/logo_elytra.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/logo wings/logo_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/logo wings/logo_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/logo wings/mario_logo.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/lotus_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/luigi wings/luigi_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/luigi wings/luigi_elytra.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/luigi wings/luigi_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/luigi wings/luigi_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/luigi wings/luigi_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/mario wings/mario_elytra.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/mario wings/mario_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/mario wings/mario_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/mario wings/mario_icon_broken.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/mario wings/mario_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/toad wings/toad_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/toad wings/toad_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/toad wings/toad_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/toad wings/toad_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mario wings/toad wings/toad_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/black/black.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/black/black.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/black/blackicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/black/blackicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/black/broken_black_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/blue/blue.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/blue/blue.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/blue/bluebroke.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/blue/blueicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/blue/blueicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/brown/brown.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/brown/brown.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/brown/brownbroke.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/brown/brownicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/brown/brownicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/cyan/cyan.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/cyan/cyan.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/cyan/cyanbroke.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/cyan/cyanicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/cyan/cyanicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/gray/gray.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/gray/gray.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/gray/graybroke.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/gray/grayicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/gray/grayicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/green/green.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/green/green.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/green/greenbroke.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/green/greenicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/green/greenicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/light blue/lbbroke.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/light blue/lightblue.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/light blue/lightblue.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/light blue/lightblueicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/light blue/lightblueicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/light gray/lgbroke.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/light gray/lightgray.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/light gray/lightgray.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/light gray/lightgrayicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/light gray/lightgrayicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/lime/lime.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/lime/lime.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/lime/limebroke.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/lime/limeicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/lime/limeicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/magenta/magenta.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/magenta/magenta.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/magenta/magentabroke.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/magenta/magentaicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/magenta/magentaicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/orange/orange.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/orange/orange.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/orange/orangebroke.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/orange/orangeicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/orange/orangeicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/pink/pink.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/pink/pink.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/pink/pinkbroke.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/pink/pinkicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/pink/pinkicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/purple/purple.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/purple/purple.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/purple/purplebroke.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/purple/purpleicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/purple/purpleicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/red/red.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/red/red_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/red/redelytra.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/red/redicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/red/redicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/white/white.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/white/white.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/white/whitebroke.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/white/whiteicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/white/whiteicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/yellow/yellow.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/yellow/yellow.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/yellow/yellowbroke.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/yellow/yellowicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/colored elytras/yellow/yellowicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/creeper_elytra_armor.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/creeper_wings_armor.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/creeper_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/creeper_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/creeper_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/enderman_elytra_armor.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/enderman_wings_armor.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/enderman_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/enderman_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/enderman_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/golem_elytra_armor.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/golem_wings_armor.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/golem_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/golem_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/golem_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/mineconearth.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/mineconearth.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/mineconearthicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/mineconearthicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/pickaxe_elytra_armor.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/pickaxe_wings_armor.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/pickaxe_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/pickaxe_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/pickaxe_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/piston_elytra_armor.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/piston_wings_armor.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/piston_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/piston_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/minecon wings/piston_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/bacon/bacon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/bacon/bacon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/bacon/baconbrokenicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/bacon/baconicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/bacon/baconicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/bugtracker/bugtracker_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/bugtracker/bugtracker_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/bugtracker/bugtracker_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/bugtracker/bugtracker_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/bugtracker/bugtracker_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/cobalt wings/cobalt_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/cobalt wings/cobalt_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/cobalt wings/cobalt_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/cobalt wings/cobalt_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/cobalt wings/cobalt_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/julianclark/julianclark_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/julianclark/julianclark_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/julianclark/julianclark_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/julianclark/julianclark_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/julianclark/julianclark_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/millionth customer wings/mill_customer_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/millionth customer wings/mill_customer_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/millionth customer wings/mill_customer_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/millionth customer wings/mill_customer_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/millionth customer wings/mill_customer_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/mrmessiah wings/mrmessiah_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/mrmessiah wings/mrmessiah_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/mrmessiah wings/mrmessiah_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/mrmessiah wings/mrmessiah_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/mrmessiah wings/mrmessiah_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/new mojang wings/new_mojang_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/new mojang wings/new_mojang_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/new mojang wings/new_mojang_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/new mojang wings/new_mojang_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/new mojang wings/new_mojang_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/new years/newyears.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/new years/newyears.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/new years/nybrokenicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/new years/nyicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/new years/nyicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/old mojang wings/old_mojang_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/old mojang wings/old_mojang_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/old mojang wings/old_mojang_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/old mojang wings/old_mojang_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/old mojang wings/old_mojang_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/prismarine wings/prismarine_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/prismarine wings/prismarine_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/prismarine wings/prismarine_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/prismarine wings/prismarine_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/prismarine wings/prismarine_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/realms mapmaker wings/realms_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/realms mapmaker wings/realms_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/realms mapmaker wings/realms_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/realms mapmaker wings/realms_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/realms mapmaker wings/realms_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/scrolls wings/Scrolls.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/scrolls wings/scrolls_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/scrolls wings/scrolls_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/scrolls wings/scrolls_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/scrolls wings/scrolls_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/scrolls wings/scrolls_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/translator wings/translator_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/translator wings/translator_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/translator wings/translator_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/translator wings/translator_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/translator wings/translator_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/turtle/turtle.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/turtle/turtle.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/turtle/turtleicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/turtle/turtleicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/xmas/xmas.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/xmas/xmas.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/xmas/xmasbrokenicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/xmas/xmasicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/minecraft/mojang elytras/xmas/xmasicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/bee/beeicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/bee/beeicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/bee/beewing.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/bee/beewing.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/chicken/chicken.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/chicken/chicken.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/chicken/chickenbroke.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/chicken/chickenicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/chicken/chickenicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/creeper/creeper.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/creeper/creeper.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/creeper/creeper2.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/creeper/creeper_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/creeper/creepericon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/creeper/creepericon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/drowned/drown.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/drowned/drowned.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/drowned/drowned.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/drowned/drownedicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/drowned/drownedicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/enderman/enderman.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/enderman/enderman.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/enderman/enderman_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/enderman/endermanicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/enderman/endermanicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/fox/fox.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/fox/fox.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/fox/fox2.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/fox/foxicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/fox/foxicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/meerkat/meerkat.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/meerkat/meerkat.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/meerkat/meerkaticon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/meerkat/meerkaticon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/ostrich/ostrich.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/ostrich/ostrich.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/ostrich/ostrichicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/ostrich/ostrichicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/phantom/broken_elytra.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/phantom/elytra.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/phantom/phantomicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/phantom/phantomicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/phantom/phantomwing.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/phantom/phantomwing_old.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/steve/steve.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/steve/steve.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/steve/stevebroke.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/steve/steveicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/steve/steveicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/turtle/turtle.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/turtle/turtle.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/turtle/turtlebroke.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/turtle/turtleicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/mobs and animals/turtle/turtleicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/german/german.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/german/german.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/german/germanbroken.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/german/germanicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/german/germanicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/netherlands/netherlands.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/netherlands/netherlands.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/netherlands/netherlandsbroken.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/netherlands/netherlandsicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/netherlands/netherlandsicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/peru/peru.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/peru/peru.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/peru/perubroke.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/peru/peruicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/peru/peruicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/poland/poland.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/poland/poland.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/poland/polandbroken.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/poland/polandicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/poland/polandicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/russia/russia.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/russia/russia.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/russia/russiabroken.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/russia/russiaicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/russia/russiaicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/spain/spain.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/spain/spain.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/spain/spainbroke.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/spain/spainicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/spain/spainicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/sweden/sweden.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/sweden/sweden.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/sweden/swedenbroke.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/sweden/swedenicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/sweden/swedenicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/switzerland/switzerbroke.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/switzerland/switzericon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/switzerland/switzericon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/switzerland/switzerland.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/national flags/switzerland/switzerland.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/pokemon wings/charizard_wings.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/pokemon wings/charizard_wings.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/pokemon wings/charizard_wings_broken_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/pokemon wings/charizard_wings_icon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/pokemon wings/charizard_wings_icon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/seasons/halloween/bonewing.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/seasons/halloween/bonewing.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/seasons/halloween/bonewingicon.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/elytras/seasons/halloween/bonewingicon.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/potions/sangreal.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/potions/sangreal.properties
+Custom Music and Tweaks/assets/minecraft/optifine/cit/Workspace/wings/Bastians_elytra.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/Workspace/wings/Elytra_Enchanted_Table.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/Workspace/wings/Legendary_Elytra.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/Workspace/wings/Leonardo_elytra.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/Workspace/wings/Mario_64_Wing_Cap_Elytra.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/Workspace/wings/Moth_Elytra.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/Workspace/wings/old_elytra.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/Workspace/wings/rainbow_elytra.png
+Custom Music and Tweaks/assets/minecraft/optifine/cit/Workspace/wings/Spectre_elytra.png
+Custom Music and Tweaks/assets/minecraft/optifine/color.properties
+Custom Music and Tweaks/assets/minecraft/sounds/ambient/weather/rain1.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/ambient/weather/rain2.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/ambient/weather/rain3.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/ambient/weather/rain4.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/ambient/weather/rain5.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/ambient/weather/rain6.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/ambient/weather/rain7.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/ambient/weather/rain8.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/damage/fallbig.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/damage/fallsmall.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/damage/hit1.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/damage/hit2.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/damage/hit3.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/records/11.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/records/13.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/records/blocks.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/records/cat.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/records/chirp.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/records/far.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/records/mall.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/records/mellohi.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/records/pigstep.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/records/stal.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/records/strad.ogg
+Custom Music and Tweaks/assets/minecraft/sounds/records/wait.ogg
+Custom Music and Tweaks/assets/minecraft/textures/block/ancient_debris_side.png
+Custom Music and Tweaks/assets/minecraft/textures/block/ancient_debris_top.png
+Custom Music and Tweaks/assets/minecraft/textures/block/attached_melon_stem.png
+Custom Music and Tweaks/assets/minecraft/textures/block/attached_pumpkin_stem.png
+Custom Music and Tweaks/assets/minecraft/textures/block/coal_ore.png
+Custom Music and Tweaks/assets/minecraft/textures/block/diamond_ore.png
+Custom Music and Tweaks/assets/minecraft/textures/block/emerald_ore.png
+Custom Music and Tweaks/assets/minecraft/textures/block/fire_0.png
+Custom Music and Tweaks/assets/minecraft/textures/block/fire_0.png.mcmeta
+Custom Music and Tweaks/assets/minecraft/textures/block/fire_1.png
+Custom Music and Tweaks/assets/minecraft/textures/block/fire_1.png.mcmeta
+Custom Music and Tweaks/assets/minecraft/textures/block/gold_ore.png
+Custom Music and Tweaks/assets/minecraft/textures/block/hopper_back.png
+Custom Music and Tweaks/assets/minecraft/textures/block/hopper_inside_side.png
+Custom Music and Tweaks/assets/minecraft/textures/block/hopper_outside.png
+Custom Music and Tweaks/assets/minecraft/textures/block/hopper_outside_flipped.png
+Custom Music and Tweaks/assets/minecraft/textures/block/iron_ore.png
+Custom Music and Tweaks/assets/minecraft/textures/block/lapis_ore.png
+Custom Music and Tweaks/assets/minecraft/textures/block/melon_stem.png
+Custom Music and Tweaks/assets/minecraft/textures/block/nether_gold_ore.png
+Custom Music and Tweaks/assets/minecraft/textures/block/nether_quartz_ore.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/note_block_side.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_0.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_1.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_10.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_11.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_12.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_13.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_14.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_15.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_16.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_17.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_18.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_19.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_2.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_20.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_21.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_22.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_23.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_24.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_3.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_4.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_5.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_6.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_7.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_8.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/numerical_9.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_0.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_1.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_10.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_11.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_12.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_13.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_14.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_15.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_16.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_17.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_18.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_19.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_2.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_20.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_21.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_22.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_23.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_24.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_3.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_4.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_5.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_6.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_7.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_8.png
+Custom Music and Tweaks/assets/minecraft/textures/block/note_block_pitch/pitch_9.png
+Custom Music and Tweaks/assets/minecraft/textures/block/piston_side_sticky.png
+Custom Music and Tweaks/assets/minecraft/textures/block/pumpkin_stem.png
+Custom Music and Tweaks/assets/minecraft/textures/block/redstone_ore.png
+Custom Music and Tweaks/assets/minecraft/textures/block/soul_fire_0.png
+Custom Music and Tweaks/assets/minecraft/textures/block/soul_fire_0.png.mcmeta
+Custom Music and Tweaks/assets/minecraft/textures/block/soul_fire_1.png
+Custom Music and Tweaks/assets/minecraft/textures/block/soul_fire_1.png.mcmeta
+Custom Music and Tweaks/assets/minecraft/textures/entity/iron_golem/iron_golem.png
+Custom Music and Tweaks/assets/minecraft/textures/entity/iron_golem/iron_golem_crackiness_high.png
+Custom Music and Tweaks/assets/minecraft/textures/environment/moon_phases.png
+Custom Music and Tweaks/assets/minecraft/textures/environment/rain.png
+Custom Music and Tweaks/assets/minecraft/textures/environment/sun.png
+Custom Music and Tweaks/assets/minecraft/textures/font/accented.png
+Custom Music and Tweaks/assets/minecraft/textures/font/ascii.png
+Custom Music and Tweaks/assets/minecraft/textures/font/ascii_sga.png
+Custom Music and Tweaks/assets/minecraft/textures/font/nonlatin_european.png
+Custom Music and Tweaks/assets/minecraft/textures/gui/icons.png
+Custom Music and Tweaks/assets/minecraft/textures/gui/options_background.png
+Custom Music and Tweaks/assets/minecraft/textures/item/creeper_banner_pattern.png
+Custom Music and Tweaks/assets/minecraft/textures/item/empty_armor_slot_boots.png
+Custom Music and Tweaks/assets/minecraft/textures/item/empty_armor_slot_chestplate.png
+Custom Music and Tweaks/assets/minecraft/textures/item/empty_armor_slot_helmet.png
+Custom Music and Tweaks/assets/minecraft/textures/item/empty_armor_slot_leggings.png
+Custom Music and Tweaks/assets/minecraft/textures/item/empty_armor_slot_shield.png
+Custom Music and Tweaks/assets/minecraft/textures/item/flower_banner_pattern.png
+Custom Music and Tweaks/assets/minecraft/textures/item/glass.png
+Custom Music and Tweaks/assets/minecraft/textures/item/globe_banner_pattern.png
+Custom Music and Tweaks/assets/minecraft/textures/item/gray_dye.png
+Custom Music and Tweaks/assets/minecraft/textures/item/lime_dye.png
+Custom Music and Tweaks/assets/minecraft/textures/item/magenta_dye.png
+Custom Music and Tweaks/assets/minecraft/textures/item/mojang_banner_pattern.png
+Custom Music and Tweaks/assets/minecraft/textures/item/nether_brick.png
+Custom Music and Tweaks/assets/minecraft/textures/item/orange_stained_glass.png
+Custom Music and Tweaks/assets/minecraft/textures/item/piglin_banner_pattern.png
+Custom Music and Tweaks/assets/minecraft/textures/item/pink_dye.png
+Custom Music and Tweaks/assets/minecraft/textures/item/potion.png
+Custom Music and Tweaks/assets/minecraft/textures/item/potion_overlay.png
+Custom Music and Tweaks/assets/minecraft/textures/item/purple_dye.png
+Custom Music and Tweaks/assets/minecraft/textures/item/skull_banner_pattern.png
+Custom Music and Tweaks/assets/minecraft/textures/item/yellow_stained_glass.png
+Custom Music and Tweaks/assets/minecraft/textures/particle/splash_0.png
+Custom Music and Tweaks/assets/minecraft/textures/particle/splash_1.png
+Custom Music and Tweaks/assets/minecraft/textures/particle/splash_2.png
+Custom Music and Tweaks/assets/minecraft/textures/particle/splash_3.png
+Digit2Pic/assets/dig2pic/font/digits.json
+Digit2Pic/assets/dig2pic/textures/dig0.png
+Digit2Pic/pack.mcmeta
+Digit2Pic/pack.png
+gui_format/assets/minecraft/models/guis/blank.json
+gui_format/assets/minecraft/models/guis/lower_section.json
+gui_format/assets/minecraft/models/guis/upper_section.json
+gui_format/assets/minecraft/models/item/diamond_hoe.json
+gui_format/assets/minecraft/textures/guis/lower_section — копия.png
+gui_format/assets/minecraft/textures/guis/lower_section.png
+gui_format/assets/minecraft/textures/guis/upper_section — копия.png
+gui_format/assets/minecraft/textures/guis/upper_section.png
+gui_format/pack.mcmeta
+gui_format/pack.png
+NegativeSpaceFont4.zip
+tw3resourcepack/
